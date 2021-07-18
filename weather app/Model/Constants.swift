@@ -9,6 +9,6 @@ import Foundation
 
 struct Constants {
     let weatherURL = "https://api.openweathermap.org/data/2.5/weather";
-    let appid = "84d987ecdb8011c495b7907f99839546";
+    let appid = "";
     let units = "imperial";
 }
